@@ -1,0 +1,1 @@
+<i class="fa fa-user-circle-o">Bienvenue:  <?php echo $_SESSION['info']['username']; ?> <a href="?logout" class="fa fa-sign-out" aria-hidden="true"></a></i>

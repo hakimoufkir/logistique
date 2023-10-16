@@ -1,0 +1,1 @@
+<i class="fa fa-user" type="button" class="btn btn-primary" data-toggle="modal" data-target="#basicExampleModal2"></i>
